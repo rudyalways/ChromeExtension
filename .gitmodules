@@ -1,0 +1,3 @@
+[submodule "extension-summarize-translate-gemini"]
+	path = extension-summarize-translate-gemini
+	url = https://github.com/sh2/extension-summarize-translate-gemini
